@@ -8,8 +8,8 @@ This is related to Machine Learning
 #Install
 This project requires Python and the following Python libraries installed:
 
-*  https://www.numpy.org
-* [Pandas]
+* [Numpy https://www.numpy.org]
+* [Pandas https://pandas.pydata.org/]
 * [scikit-learn]
 
 # You will also need to have software installed to run and execute a Jupyter Notebook
