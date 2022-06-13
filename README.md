@@ -8,9 +8,9 @@ This is related to Machine Learning
 #Install
 This project requires Python and the following Python libraries installed:
 
-* NumPy
-* Pandas
-* scikit-learn
+* [NumPy]
+* [Pandas]
+* [scikit-learn]
 
 # You will also need to have software installed to run and execute a Jupyter Notebook
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
