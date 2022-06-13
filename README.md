@@ -8,7 +8,7 @@ This is related to Machine Learning
 #Install
 This project requires Python and the following Python libraries installed:
 
-* [NumPy]
+* [(NumPy)]
 * [Pandas]
 * [scikit-learn]
 
